@@ -1,6 +1,6 @@
-## 软件安装与卸载
+## 安装与卸载
 - [HiBit](https://hibitsoft.ir/Uninstaller.html)
-- [UniGetUI](https://github.com/marticliment/UnigetUI)
+- [UniGetUI](https://github.com/marticliment/UnigetUI  "🛫🌏")
 
 ## 文件查看
 - [7-zip](https://www.7-zip.org/)
@@ -8,8 +8,8 @@
 
 ## 系统优化
 - [AltSnap](https://github.com/RamonUnch/AltSnap)
-- [Paste Into File](https://github.com/eltos/PasteIntoFile "🌏")
-- []()
+- [Paste Into File](https://github.com/eltos/PasteIntoFile "🛫🌏")
+- [v2rayN](https://github.com/2dust/v2rayN "🛫🌏")
 - []()
 - []()
 - []()
