@@ -14,4 +14,4 @@
 - [everything](https://www.voidtools.com/zh-cn/)
 - [pixpin](https://pixpin.cn/)
 - [motrix](https://motrix.app/)
-- []()
+- [localsend](https://localsend.org/zh-CN/download)
